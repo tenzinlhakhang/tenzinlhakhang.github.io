@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tenzin Lhakhang Github Page"
+title: "Tenzin Lhakhang Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+Hello World! It's a work in progress.
