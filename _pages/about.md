@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Tenzin Lhakhang Page"
+title: "Hello World"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-Hello World! It's a work in progress.
+print('It's a work in progress.')
